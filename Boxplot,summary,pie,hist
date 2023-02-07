@@ -1,0 +1,15 @@
+Boxplot:
+a<-c(11,13,17,12,22,24)
+boxplot(a)
+
+Summary:
+b<-c(10,13,15,14,17)
+summary(b)
+
+pie:
+d<-c(25,34,43,56,66)
+pie(d)
+
+hist:
+e<-(92,86,75,63,52)
+hist(e)
